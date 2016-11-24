@@ -1,0 +1,6 @@
+Weems 51.3633 60
+Dale 51.6783 60
+Richards 57.9090 60
+Smith 36.4378 60
+Tomlin 44.9238 60
+Bird 45.7777 60
